@@ -9,7 +9,7 @@
 	2) Run "npm start" to view the project
 	
 	
-##### Demo here --> https://react-burger-builder-11f50.firebaseapp.com/
+
 
 
 
